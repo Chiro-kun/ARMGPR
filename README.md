@@ -83,4 +83,4 @@ Guya.moe è un sito che permette di leggere manga online. Questa guida è stata 
 
 ## Aggiornare il "Last Updated"
 
-Per aggiornare il Last Updated andate su https://unixtimestamp.com/ e copiate il numero che vi da, poi sostituitelo nella stringa del capitolo.
+Per aggiornare il Last Updated andate su https://unixtimestamp.com/ e mettete la data che volete, una volta fatto, sostituitelo subito dopo la stringa ```"last_updated"```
