@@ -10,6 +10,7 @@ Questa guida ti aiuterà a ospitare una serie manga su Imgur utilizzando Guya.mo
 4. [Configurazione iniziale](#configurazione-iniziale)
 5. [Aggiunta di ulteriori capitoli](#aggiunta-di-ulteriori-capitoli)
 6. [Conclusione](#conclusione)
+7. [Aggiornare il Last Updated](#aggiornare-il-last-updated)
 
 ## Introduzione
 
@@ -79,3 +80,7 @@ Guya.moe è un sito che permette di leggere manga online. Questa guida è stata 
 4. Ripeti questo passaggio per ogni capitolo che desideri aggiungere.
 5. Una volta finito con tutti i capitoli, rimuovi l'ultima virgola alla fine del codice e clicca su "commit changes".
 6. Quando torni al tuo URL di Guya.moe, dovrebbe essere aggiornato con i nuovi capitoli.
+
+## Aggiornare il "Last Updated"
+
+Per aggiornare il Last Updated andate su https://unixtimestamp.com/ e copiate il numero che vi da, poi sostituitelo nella stringa del capitolo.
