@@ -1,0 +1,17 @@
+{
+  "title": "Blue Lock",
+  "description": "Questo è solo un test, non vedo roba sul calcio, che schifo il calcio",
+  "artist": "Chiro",
+  "author": "Chiro",
+  "cover": "https://i.imgur.com/hj3lGZ7.png",
+  "chapters": {
+    "1": {
+      "title": "Calcio merda",
+      "volume": "1",
+      "groups": {
+        "napoli SIUUM": "/proxy/api/imgur/chapter/X3Jlvym/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
