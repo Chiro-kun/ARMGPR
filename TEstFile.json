@@ -1,17 +1,27 @@
 {
-  "title": "Blue Lock",
-  "description": "Questo è solo un test, non vedo roba sul calcio, che schifo il calcio",
-  "artist": "Chiro",
-  "author": "Chiro",
-  "cover": "https://i.imgur.com/hj3lGZ7.png",
+  "title": "Nikke 4koma Official",
+  "description": "4koma ufficiale di nikke",
+  "artist": "Tota (totakeke___)",
+  "author": "Tota (totakeke___)",
+  "cover": "",
   "chapters": {
-    "1": {
-      "title": "Calcio merda",
-      "volume": "1",
+    "70": {
+      "title": "Un intrattenitore solitario",
+      "volume": "0",
+      "last_updated": "1749330658",
       "groups": {
-        "napoli SIUUM": "/proxy/api/imgur/chapter/X3Jlvym/"
-      },
-      "last_updated": "1616368746"
+        "Telegram: NikkeItalia": [
+          "https://files.catbox.moe/bfxfgr.png"
+        ]
+      }
+    },
+    "71": {
+      "title": "Tattiche di utilizzo dei Social Network",
+      "volume": "0",
+      "last_updated": "1749330746",
+      "groups": {
+        "Telegram: NikkeItalia": "https://files.catbox.moe/ko8pqa.jpg"
+      }
     }
   }
 }
