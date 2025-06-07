@@ -20,7 +20,9 @@
       "volume": "0",
       "last_updated": "1749330746",
       "groups": {
-        "Telegram: NikkeItalia": "https://files.catbox.moe/7542ti.jpg"
+        "Telegram: NikkeItalia": [
+          "https://files.catbox.moe/7542ti.jpg"
+        ]
       }
     }
   }
